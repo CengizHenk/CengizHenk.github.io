@@ -22,5 +22,5 @@ paginate:         5
 # Custom vars
 #version:          2.1.0
 
-#github:
-#  repo:           https://github.com/cengizhenk/cengizhenk.github.io
+github:
+  repo:           https://github.com/CengizHenk/CengizHenk.github.io
